@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 
 from Entity import Entity
-from Player import Player
 
 
-class Player(Entity, Player):
+class Background(Entity):
     def __init__(self):
         pass
 
